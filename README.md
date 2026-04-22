@@ -122,7 +122,7 @@ Created a full KPI tracking system with automated summaries and executive-level 
 | Power BI Data Analyst | Microsoft |
 | DB and SQL for Data Science with Python | IBM |
 | Python for Data Science | IBM |
-| Advanced Excel | — |
+| Advanced Excel | Microsoft |
 | Introduction to Data Science | Google |
 
 ---
@@ -130,7 +130,8 @@ Created a full KPI tracking system with automated summaries and executive-level 
 ## 💼 Experience
 
 **Virtual Job Simulations — Data Analytics & Visualization**  
-*Forage · Deloitte, Quantium, Tata Group*
+*Forage
+Deloitte, Quantium, Tata Group*
 - Performed customer segmentation and sales trend analysis on structured datasets
 - Built dashboards to communicate business insights to stakeholders
 - Translated data findings into actionable business recommendations
@@ -145,7 +146,7 @@ Created a full KPI tracking system with automated summaries and executive-level 
 ## 🤝 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/aman-krc">
+  <a href="https://www.linkedin.com/in/amkran/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:krchoudharyaman@gmail.com">
